@@ -109,3 +109,26 @@ body{
 .blood:hover{
   transform: scale(1.1);
 }
+.list2{
+  list-style: none;
+  text-decoration:none ;
+}
+
+  .btn {
+    
+      background-color: #ffc800;
+      border: none;
+      color: #8e8b8b;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 20px;
+      position: relative;
+      left: 1250px;
+      top: -40px;
+    
+    
+  }
